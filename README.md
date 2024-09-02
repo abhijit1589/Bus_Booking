@@ -1,6 +1,6 @@
-# Easy Bus Booking System
+#  Bus Booking System
 
-<span style="color:blue">The **Easy Bus Booking** project is a user-friendly system developed with **Python** and **SQL** to streamline the process of booking bus tickets. This application offers a simple and intuitive interface for users to:</span>
+<span style="color:blue">The ** Bus Booking** project is a user-friendly system developed with **Python** and **SQL** to streamline the process of booking bus tickets. This application offers a simple and intuitive interface for users to:</span>
 
 - <span style="color:green">Book tickets</span>
 - <span style="color:green">View bus schedules</span>
